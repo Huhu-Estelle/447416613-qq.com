@@ -101,7 +101,7 @@ body {
 .container .main {
   position: relative;
   margin-left: 22rem;
-  background: #fff;
+  background: #eee9e9;
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
   box-sizing: border-box;
